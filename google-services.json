@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "642261452048",
+    "project_id": "notify-de5fc",
+    "storage_bucket": "notify-de5fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642261452048:android:3f30892fd8d02409dd5195",
+        "android_client_info": {
+          "package_name": "com.notify.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFuh-_z_AR44MYOv6PERBs4lJ0kMW505Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
